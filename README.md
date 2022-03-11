@@ -12,7 +12,7 @@ NWAFU 疫情自动填报 打卡 ✈
 1. 首先你需要有一台可以运行python脚本的机器（mac/windows均可）
 2. 需要提供：教务系统的学号和密码【用于登录】，你的邮箱地址和邮箱授权码（默认使用的是IMAP授权码）【用于发送是否成功打卡标志和打卡信息】
 3. Linux：```python3 automatic_post_ncov.py UserId(学号) Password(密码) MailAddress(邮箱地址) MailAuthorizeCode(邮箱授权码)```
-4. Windows：命令行和Linux操作基本误差：部分用python3改成python即可，或者在脚本中修改信息进行提交
+4. Windows：命令行和Linux操作基本无差：部分用python3改成python即可，或者在脚本中修改信息进行提交
 
 ## 一些注意
 
